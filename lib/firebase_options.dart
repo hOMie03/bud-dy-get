@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDsAmfi5f1k-U0nuMgQwWIfBrP9VsWQyjM',
-    appId: '1:263227506732:android:70e2a6dfdbbc86a9c71189',
-    messagingSenderId: '263227506732',
-    projectId: 'buddytack-76785',
-    storageBucket: 'buddytack-76785.appspot.com',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_PROJECT_ID.appspot.com',
   );
 }
