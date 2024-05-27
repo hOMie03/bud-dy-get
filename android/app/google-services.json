@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263227506732",
+    "project_id": "buddytack-76785",
+    "storage_bucket": "buddytack-76785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263227506732:android:9d8a769210baf703c71189",
+        "android_client_info": {
+          "package_name": "com.example.buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAmfi5f1k-U0nuMgQwWIfBrP9VsWQyjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263227506732:android:70e2a6dfdbbc86a9c71189",
+        "android_client_info": {
+          "package_name": "com.example.wiseflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAmfi5f1k-U0nuMgQwWIfBrP9VsWQyjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
